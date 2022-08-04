@@ -61,7 +61,8 @@
       padding-left: 10px;
       border-color: #4e9eff;
     }
-    input:focus , textarea:focus{
+    input:focus , textarea:focus,
+    button:focus{
       outline: none;
     }
     textarea {
